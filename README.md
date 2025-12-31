@@ -19,5 +19,4 @@ View your app in AI Studio: https://ai.studio/apps/temp/1
 3. Run the app:
    `npm run dev`
 
-코드 리팩토리 보조 ai 서비스
-251231
+코드 리팩토리 보조 ai 서비쓰
